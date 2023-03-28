@@ -54,5 +54,6 @@ public class LoginController {
         }
 
         loginMessage.setText("Incorrect login!");
+        System.out.println("Modified the same line as in the first branch!");
     }
 }
