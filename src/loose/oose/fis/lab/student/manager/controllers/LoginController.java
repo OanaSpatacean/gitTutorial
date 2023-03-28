@@ -54,5 +54,6 @@ public class LoginController {
         }
 
         loginMessage.setText("Incorrect login!");
+        System.out.println("Modified an existing class!");
     }
 }
